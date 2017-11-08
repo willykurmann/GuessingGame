@@ -1,7 +1,5 @@
 # Guessing Game
 ## guessinggame.sh
-Make date:
-Wed Nov  8 22:05:02 CET 2017
+README.md created at: Wed Nov  8 22:19:48 CET 2017
 
-Number of lines of codes:
-26
+Lines of code: 26
